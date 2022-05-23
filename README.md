@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> Hi, I'm Akrom! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Computer science second year student at <a href="https://nu.edu.kz/en/"> NU </a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
 
-<!--
-**AkromKassymov/AkromKassymov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-Here are some ideas to get you started:
+```javascript
+let Ako = {
+  code: [Javascript, C, C++, Swift],
+  askMeAbout: ["mob dev", "tech", "app dev"],
+  tools: [React, Redux],
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"].
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
