@@ -6,9 +6,9 @@
 
 ```javascript
 let Ako = {
-  code: [Javascript, C, C++, Swift],
+  code: [Swift, Javascript, C, C++],
   askMeAbout: ["mob dev", "tech", "app dev"],
-  tools: [React, Redux],
+  tools: [SwiftUI, React, Redux],
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"].
 }
 ```
