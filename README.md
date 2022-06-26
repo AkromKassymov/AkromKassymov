@@ -8,7 +8,7 @@
 let Ako = {
   code: [Swift, Javascript, C, C++],
   askMeAbout: ["mob dev", "tech", "app dev"],
-  tools: [SwiftUI, React, Redux],
+  tools: [SwiftUI, UIkit, React, Redux],
   architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"].
 }
 ```
